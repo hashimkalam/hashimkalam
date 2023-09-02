@@ -8,12 +8,6 @@
 
 📫 Let's connect! You can find me on these two fantastic platforms:
 
-
-LinkedIn - Connect with me here: [LinkedIn]([URL](https://www.linkedin.com/in/hashimkalam/))
-
-
-Instagram - Join me on Instagram: Instagram
-
 Feel free to reach out and let's explore the world of coding together! 😊🚀
 <!---
 hashimkalam/hashimkalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
