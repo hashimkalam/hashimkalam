@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Hashim Kalam!
-- 👀 I’m interested in coding programming language like Python and JavaScript!
-- 🌱 I’m currently learning at Informatics Institute of Technology as an undergraduate.
-- 💞️ I’m looking to collaborate on projects especially with the front-end development side since my interests lies mainly in that particular area.
-- 📫 How to reach me - LinkedIn and Instagram are two perfect platforms that you could use!
-     1. LinkedIn - https://shorturl.at/hxCEG
-     2. Instagram - https://shorturl.at/ado08
+👋 Hello, I'm Hashim Kalam!
+👀 I'm passionate about the world of coding and programming languages like Python and JavaScript!
+🌱 Currently, I'm on an exciting learning journey as an undergraduate student at the Informatics Institute of Technology.
+💞️ I'm eager to collaborate on projects, especially in the realm of front-end development, as it aligns perfectly with my interests.
+📫 Let's connect! You can find me on these two fantastic platforms:
 
+LinkedIn - Connect with me here: LinkedIn
+Instagram - Join me on Instagram: Instagram
+
+Feel free to reach out and let's explore the world of coding together! 😊🚀
 <!---
 hashimkalam/hashimkalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
