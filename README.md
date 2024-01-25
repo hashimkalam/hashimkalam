@@ -1,6 +1,6 @@
 👋 Hello, I'm Hashim Kalam!
 
-👀 I'm passionate about the world of coding and programming languages like Python and JavaScript!
+👀 I'm passionate about the world of coding and programming languages like Python, JavaScript, TypeScript and more!
 
 🌱 Currently, I'm on an exciting learning journey as an undergraduate student at the Informatics Institute of Technology.
 
