@@ -2,9 +2,7 @@
 
 🚀 Software Engineer | AI/ML & XAI Focus
 
-I build production-grade software and research-driven AI systems, with a strong focus on Explainable AI (XAI), time-series models, and real-world engineering.
-
-Currently an undergraduate CS student (University of Westminster), graduating soon, with hands-on experience across enterprise, startup, and research environments.
+I build production-grade software and applied AI/ML systems, with a strong focus on Explainable AI (XAI) and real-world engineering.
 
 🔧 Tech I Work With
 
