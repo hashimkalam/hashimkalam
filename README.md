@@ -1,17 +1,33 @@
-👋 Hello, I'm Hashim Kalam!
+👋 Hi, I’m Hashim Kalam
 
-👀 I'm passionate about the world of coding and programming languages like Python, JavaScript, TypeScript and more!
+🚀 Software Engineer | AI/ML & XAI Focus
 
-🌱 Currently, I'm on an exciting learning journey as an undergraduate student at the Informatics Institute of Technology.
+I build production-grade software and research-driven AI systems, with a strong focus on Explainable AI (XAI), time-series models, and real-world engineering.
 
-💞️ I'm eager to collaborate on projects, especially in the realm of front-end development, as it aligns perfectly with my interests.
+Currently an undergraduate CS student (University of Westminster), graduating soon, with hands-on experience across enterprise, startup, and research environments.
 
-📫 Let's connect! You can find me on these two fantastic platforms:
+🔧 Tech I Work With
 
-Feel free to reach out and let's explore the world of coding together! 😊🚀
+Languages: Python, JavaScript, TypeScript, Go, Java
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Express, Go, Spring Boot
+Databases: MongoDB, PostgreSQL, Firebase, MySQL
+AI/ML: PyTorch, scikit-learn, Time-Series ML, XAI (TRP, LRP, SHAP)
+DevOps: Docker, GitHub Actions, CI/CD, Vercel, Cloudflare
 
+🧠 What I’m Into
 
+AI / ML & Explainable AI (XAI)
+Software engineering with a focus on scalable, maintainable systems
+Building real-world products, not just demos
+Clean architecture and reusable backend components
+Applied research that translates into practical solutions
 
+🤝 Open To
+
+Interesting engineering problems
+AI/XAI research collaborations
+High-impact frontend or full-stack projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashimkalam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hashiimkalam) 
